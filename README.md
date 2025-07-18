@@ -32,7 +32,7 @@ This repo contains my submission for the Affordmed backend test challenge.
 ---
 ## Screenshots
 1. Logging Middleware
-![Log](postman/Logging_Middleware_1.png)
+![Log](Logging_Middleware_1.png)
 2. Average_Api_Endpoint
 ![Avg](Average_Api_Endpoint.png)
 ## 🧪 How to Test
